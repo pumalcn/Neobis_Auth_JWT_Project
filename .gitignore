@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.idea/
+authjwtvenv/
+*.pyo
+*.bak
+*.swp
+*~
+/.vscode
+/static
+.DS_Store
+*.env
